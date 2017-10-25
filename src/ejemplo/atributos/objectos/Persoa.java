@@ -14,7 +14,7 @@ public class Persoa {
         this.dni=dni;
     }   
     
-    public void setNome(String persoa){
+    public void setNome(String nome){
         this.nome=nome;
     }
     public String getNome(){
